@@ -1,0 +1,445 @@
+{
+	"rows":
+	[
+		{
+			"Unidad_educativa_id": 10680001,
+			"Nombre": "NUEVA ESTRELLA IRPA GRANDE",
+			"Municipio": "TEOPONTE"
+		},
+		{
+			"Unidad_educativa_id": 10680002,
+			"Nombre": "SARTAWI",
+			"Municipio": "TEOPONTE"
+		},
+		{
+			"Unidad_educativa_id": 10680003,
+			"Nombre": "ESMERALDA DE SAN FRANCISCO",
+			"Municipio": "TEOPONTE"
+		},
+		{
+			"Unidad_educativa_id": 10680004,
+			"Nombre": "MAYAYA A",
+			"Municipio": "TEOPONTE"
+		},
+		{
+			"Unidad_educativa_id": 10710001,
+			"Nombre": "CANUTA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710002,
+			"Nombre": "GERMAN BUSCH DE CANUTA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710004,
+			"Nombre": "CRUCERO",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710005,
+			"Nombre": "HUICHURAYA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710006,
+			"Nombre": "HUAJRUMA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710007,
+			"Nombre": "VILLA PUSILLA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710008,
+			"Nombre": "TOTORJOKO",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710009,
+			"Nombre": "JANKO CHAULLANI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710010,
+			"Nombre": "ACOPATA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710011,
+			"Nombre": "TOTORANI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710012,
+			"Nombre": "VITUYA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710013,
+			"Nombre": "ROMERO PAMPA A",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710014,
+			"Nombre": "ROMERO PAMPA B",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710015,
+			"Nombre": "HUAYLLAPANTA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710016,
+			"Nombre": "POKEVILLQUE",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710017,
+			"Nombre": "HUAREJANA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710018,
+			"Nombre": "MIKAYANI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710019,
+			"Nombre": "LUPACAMAYA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710020,
+			"Nombre": "JAYUMA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710021,
+			"Nombre": "PICHINI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710022,
+			"Nombre": "CHOQUEPUJO",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710023,
+			"Nombre": "VILAQUE",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710024,
+			"Nombre": "COLLPACANTA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710025,
+			"Nombre": "VILLA PUCHUNI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710027,
+			"Nombre": "CHEJHUAYA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710028,
+			"Nombre": "PUJRATA CALARI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710030,
+			"Nombre": "NACIONAL SANTIAGO DE CALLAPA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710031,
+			"Nombre": "SANKHAYUNI DE PUERTO CHIVO",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710032,
+			"Nombre": "SIMON BOLIVAR",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710033,
+			"Nombre": "VILLA ESPERANZA DE CUIPASANI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710035,
+			"Nombre": "CALTECA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710036,
+			"Nombre": "NACIONAL DE CALTECA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710037,
+			"Nombre": "GERMAN BUSCH DE JOKHOPAMPA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710038,
+			"Nombre": "LIBERTADOR SIMON BOLIVAR",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710039,
+			"Nombre": "TUPAC AMARU",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710040,
+			"Nombre": "SIMON BOLIVAR MCAL SUCRE",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710042,
+			"Nombre": "SAN FRANCISCO DE YARIBAY",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710043,
+			"Nombre": "ROSA PATA YARIBAY",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710044,
+			"Nombre": "CHULLUNCAYANI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710045,
+			"Nombre": "IMAUTA",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710047,
+			"Nombre": "VILLA MERCEDES",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 10710048,
+			"Nombre": "CHALCO TORRINI",
+			"Municipio": "SANTIAGO DE CALLAPA"
+		},
+		{
+			"Unidad_educativa_id": 20610001,
+			"Nombre": "SIMON BOLIVAR DE COLLANA",
+			"Municipio": "COLLANA"
+		},
+		{
+			"Unidad_educativa_id": 20610002,
+			"Nombre": "SAN NICOLAS",
+			"Municipio": "COLLANA"
+		},
+		{
+			"Unidad_educativa_id": 20680001,
+			"Nombre": "VILLA ESPERANZA",
+			"Municipio": "MAPIRI"
+		},
+		{
+			"Unidad_educativa_id": 20680002,
+			"Nombre": "BELEN",
+			"Municipio": "MAPIRI"
+		},
+		{
+			"Unidad_educativa_id": 20680004,
+			"Nombre": "SIEMPRE UNIDOS TUIRI",
+			"Municipio": "MAPIRI"
+		},
+		{
+			"Unidad_educativa_id": 20680005,
+			"Nombre": "SANTA ROSA",
+			"Municipio": "MAPIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710002,
+			"Nombre": "AYPA JACOKATA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710003,
+			"Nombre": "SURAMAYA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710006,
+			"Nombre": "WISAMAYA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710007,
+			"Nombre": "CHUCANAQUI",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710009,
+			"Nombre": "KALLA LLALLAGUA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710011,
+			"Nombre": "EJRA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710013,
+			"Nombre": "TUNIZCOTA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710014,
+			"Nombre": "JUAN JOSE TORREZ GONZALES",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710015,
+			"Nombre": "JIRAPI BAJA",
+			"Municipio": "CAQUIAVIRI"
+		},
+		{
+			"Unidad_educativa_id": 20710016,
+			"Nombre": "NAZACARA",
+			"Municipio": "NAZACARA DE PACAJES"
+		},
+		{
+			"Unidad_educativa_id": 21920001,
+			"Nombre": "TCNL RAFAEL PABON",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920002,
+			"Nombre": "NACIONAL GRAN CHACO",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920003,
+			"Nombre": "RUBEN TERRAZAS",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920004,
+			"Nombre": "24 DE SEPTIEMBRE",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920005,
+			"Nombre": "12 DE ABRIL",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920006,
+			"Nombre": "PAULINO MORENO",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920007,
+			"Nombre": "JUAN CARLOS SANCHEZ",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920008,
+			"Nombre": "ORLANDO GOMEZ",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920009,
+			"Nombre": "NUEVO HORIZONTE",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920010,
+			"Nombre": "HUACARETA",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920012,
+			"Nombre": "EL RETIRO",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 21920013,
+			"Nombre": "KOEMBIYA",
+			"Municipio": "BOYUIBE"
+		},
+		{
+			"Unidad_educativa_id": 30610001,
+			"Nombre": "GUALBERTO VILLARROEL",
+			"Municipio": "COLLANA"
+		},
+		{
+			"Unidad_educativa_id": 30610002,
+			"Nombre": "COLQUENCHA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610003,
+			"Nombre": "NACIONAL LITORAL",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610004,
+			"Nombre": "LITORAL",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610005,
+			"Nombre": "LADISLAO CABRERA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610006,
+			"Nombre": "EDUARDO ABAROA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610007,
+			"Nombre": "ANTOFAGASTA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610009,
+			"Nombre": "SANTIAGO DE LLALLAGUA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610010,
+			"Nombre": "CALAMA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610011,
+			"Nombre": "ACHOCO",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610012,
+			"Nombre": "MEJILLONES",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610013,
+			"Nombre": "ADVENTISTA DE COLQUENCHA",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610015,
+			"Nombre": "ADVENTISTA DE MARQUIRIVI",
+			"Municipio": "COLQUENCHA"
+		},
+		{
+			"Unidad_educativa_id": 30610017,
+			"Nombre": "PEDRO DOMINGO MURILLO B",
+			"Municipio": "COLLANA"
+		}
+	]
+}
